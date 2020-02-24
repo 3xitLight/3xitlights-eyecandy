@@ -1,0 +1,17 @@
+pkgbase = 3xitlights-icons
+	pkgdesc = 3xitlights fav´ed icons
+	pkgver = 1.0
+	pkgrel = 1
+	url="https://github.com/3xitlight/3xitlights-icons"
+	arch = any
+	license = Attribution-NonCommercial-ShareAlike 4.0 International Public License
+	makedepends = git
+	provides = 
+	conflicts = 3xitlights-icons
+	options = !strip
+	options = !emptydirs
+	source = 3xitlights-icons::https://github.com/3xitlight/3xitlights-icons/archive/3xitlights-icons-1.0-1.tar.gz
+	sha256sums = SKIP
+
+pkgname = 3xitlights-icons
+
